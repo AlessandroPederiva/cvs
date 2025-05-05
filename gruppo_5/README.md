@@ -1,4 +1,7 @@
 # Partecipanti del gruppo:
+- Jherson Pimentel
+- 
+- 
 - Emma Frecciarulo
 - Andrea Castro
 - Luigi D'Aniello
